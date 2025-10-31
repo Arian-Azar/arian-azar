@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arian Azarnioshe</h1>
+<h1 align="center">Hi , I'm Arian Azarnioshe</h1>
 <h3 align="center">Software Engineer | DevOps Enthusiast | Linux user | Security Learner | Django Backend Developer</h3>
 
 <p align="center">
@@ -7,15 +7,15 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
-🎓 I'm a Computer Engineering student passionate about building reliable backend systems and scalable infrastructure.  
-💡 I specialize in Python & Django, currently diving into DevSecOps.
-🚀 I'm deeply focused on learning, improving, and contributing to real-world tech solutions.
+ I'm a Computer Engineering student passionate about building reliable backend systems and scalable infrastructure.  
+ I specialize in Python & Django, currently diving into DevSecOps.
+ I'm deeply focused on learning, improving, and contributing to real-world tech solutions.
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
@@ -27,13 +27,8 @@
 
 ---
 
-## 📚 Currently Learning
 
-- 🔐 Security+ and CCNA (Networking & Cybersecurity)
-- 🧠 Data Structures, Algorithms, and Competitive Programming
----
-
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Arian2i&show_icons=true&theme=tokyonight" alt="stats" />
@@ -43,21 +38,16 @@
 
 ---
 
-## 📫 Let's Connect
+##  Let's Connect
 
-- 📧 Email: `aryanazarnioshe@gmail.com`
-- 🐙 GitHub: [Arian2i](https://github.com/Arian2i)
-- 💼 LinkedIn: 'https://www.linkedin.com/in/arian-azarnioshe-a5228230a'
-- 🌐 Website: *(in development)*
-
----
-
-## 🐍 Snake Game Contribution Graph
-<p align="center">
-  <img src="https://github.com/Arian2i/arian2i/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
+-  Email: `aryanazarnioshe@gmail.com`
+-  GitHub: [Arian2i](https://github.com/Arian2i)
+-  LinkedIn: 'https://www.linkedin.com/in/arian-azarnioshe-a5228230a'
+-  Website: *(in development)*
 
 ---
+
+
 
 ⭐ **Fun Fact:** I believe deep tech knowledge + creativity = power to build the future!
 
