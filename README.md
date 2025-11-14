@@ -51,10 +51,8 @@ Here are some projects and real systems I’ve built:
 
 | Project / Website | Description |
 |------------------|-------------|
-| **YourProject1.com** | A full Django backend platform for … |
-| **YourProject2.app** | A web application for … |
-| **University Portal (Daneshjoyar)** | A custom system developed for Islamic Azad University – student registration & management portal |
-| *(Add more links when ready)* | |
+| **University Portal (Daneshjoyar.com)** | A custom system developed for Islamic Azad University – student registration & management portal |
+
 
 > 🔧 **Tell me your project links and I’ll format them professionally.**
 
