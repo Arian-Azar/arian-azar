@@ -1,80 +1,118 @@
-<h1 align="center">👋 Hi, I'm Arian Azarnioshe</h1>
-<h3 align="center">Backend Engineer | DevSecOps Practitioner | Security Researcher | Linux Power User</h3>
+<pre align="center">
+█████╗ ██████╗ ██╗ █████╗ ███╗   ██╗     
+██╔══██╗██╔══██╗██║██╔══██╗████╗  ██║    
+███████║██████╔╝██║███████║██╔██╗ ██║    
+██╔══██║██╔══██╗██║██╔══██║██║╚██╗██║    
+██║  ██║██║  ██║██║██║  ██║██║ ╚████║    
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝ 
+</pre>
+
+<h1 align="center">Arian Azarnioshe</h1>
+<h3 align="center">Backend Engineer • DevSecOps Practitioner • Security Researcher</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=550&lines=Backend+Engineer+%7C+Security+Learner;Django+%26+Python+Developer;DevSecOps+%7C+CI%2FCD+Engineer;Linux+%26+Cloud+Enthusiast;Future+Cybersecurity+Expert" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&width=550&lines=Backend+Engineer;Django+%26+Python+Developer;DevSecOps+%7C+CI%2FCD+Security;Linux+%26+Infrastructure;Application+Security+Learner;Building+Secure+Systems..." />
 </p>
 
 ---
 
-## 🚀 About Me
+## 🧩 About Me
 
-I’m a **Backend Developer & DevSecOps/Security enthusiast** focused on building secure, scalable, and high-performance backend systems.
+I build secure and scalable backend systems with a strong focus on **security-driven engineering**, **automation**, and **high-reliability infrastructure**.
 
 - 🎓 Computer Engineering Student  
-- 🛡  Currently diving deep into **Application Security**, **DevSecOps**, and **Secure Coding**  
-- 🐍 Skilled in **Python** with professional experience using **Django**  
-- 🐧 Passionate Linux user & automation lover  
-- 🔧 Interested in Infrastructure as Code, CI/CD, and cybersecurity tooling  
-- 🌱 Always learning — aiming for an MSc in **AI & Security**  
+- 🛡 Focused on **Application Security**, **DevSecOps**, and **Secure Backend Development**  
+- 🐍 Experienced with **Python · Django · DRF**  
+- 🐧 Strong Linux mindset (system-level understanding)  
+- 🔄 Obsessed with CI/CD pipelines & secure automation  
+- 🌐 Love building real-world production systems  
+
+⚡ *“Secure engineering is not an option — it's a responsibility.”*
 
 ---
 
-## 🛠 Tech Stack & Tools
+## ⚙️ Tech Expertise
 
-### **Backend & Security**
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
-![DRF](https://img.shields.io/badge/-Django%20REST-092E20?style=flat&logo=django)
-![Security](https://img.shields.io/badge/-Security-000?style=flat&logo=protonvpn)
+### **Backend Engineering**
+- Python · Django · Django REST  
+- API Security Standards (JWT, RBAC, OWASP API Top 10)  
+- Database Design (PostgreSQL, SQLite)  
 
-### **Databases**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
-![SQLite](https://img.shields.io/badge/-SQLite-07405E?style=flat&logo=sqlite)
+### **DevSecOps & Automation**
+- CI/CD Hardening (GitHub Actions)  
+- SAST / DAST / Dependency Scanning  
+- Docker Security Practices  
+- Reverse Proxy (Nginx) + Gunicorn Hardening  
 
-### **DevOps & Infrastructure**
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=githubactions)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
-![Nginx](https://img.shields.io/badge/-NGINX-009639?style=flat&logo=nginx)
-
-### **Tools**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-![PyCharm](https://img.shields.io/badge/-PyCharm-000?style=flat&logo=pycharm)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visualstudiocode)
+### **Systems & Infra**
+- Linux (Ubuntu/Debian/Arch)  
+- Containers · Virtualization  
+- Monitoring pipelines  
+- SSH Hardening, Linux Security  
 
 ---
 
-## 🌐 Projects & Portfolio
+# 🛰 Featured Project — Daneshjoyar University Portal
 
-Here are some projects and real systems I’ve built:
+### 🔗 Live Website  
+**https://daneshjoyar.com/**
 
-| Project / Website | Description |
-|------------------|-------------|
-| **University Portal (Daneshjoyar.com)** | A custom system developed for Islamic Azad University – student registration & management portal |
+### 📝 Description  
+A university registration and course-flow automation platform built with:
 
+- **Django Backend**  
+- **PostgreSQL Database**  
+- **Role-Based Access Control (RBAC)**  
+- **Secure Authentication Layer**  
+- Modular backend architecture  
+- Production-ready deployment (Nginx + Gunicorn)
 
-> 🔧 **Tell me your project links and I’ll format them professionally.**
+> A real-world academic system for Islamic Azad University — built to handle student workflows with reliability and security in mind.
 
 ---
 
-## 📊 GitHub Stats
+## 📁 Projects & Deployments
 
+| Project | Type | Status |
+|--------|------|--------|
+| **Daneshjoyar University Portal** | Full Backend System | ✅ Production |
+| **Personal Portfolio Website** | Backend + Security | 🔄 In Development |
+| **API Security Lab** | Research Project | 🚧 Building |
+| *More Coming…* | | |
+
+---
+
+# 📈 GitHub Activity (Dynamic)
+
+### 🔥 Commits Overview
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arian2i&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arian2i&theme=tokyonight" alt="streaks" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arian2i&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arian2i&theme=react-dark&hide_border=true" />
+</p>
+
+### 📊 Statistics & Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arian2i&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arian2i&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+### 🔥 Contribution Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arian2i&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Contact
+## 🔗 Contact
 
 - **Email:** `aryanazarnioshe@gmail.com`  
-- **GitHub:** [Arian2i](https://github.com/Arian2i)  
+- **GitHub:** https://github.com/Arian2i  
 - **LinkedIn:** https://www.linkedin.com/in/arian-azarnioshe-a5228230a  
-- **Portfolio Website:** *(coming soon)*  
+- **Website:** *(coming soon)*  
 
 ---
 
-⭐ *“Security is not a product — it's a continuous mindset.”*  
+
+
+---
+
+⭐ *Thank you for visiting — Keep building, keep securing.*  
